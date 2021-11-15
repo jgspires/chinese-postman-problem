@@ -18,7 +18,7 @@ Contains all of the source code pertaining to the application.
 
 ## Graph Exemples:
 
-Contains images of the original graphs whose route inspection problems are solved and outputed by this application, should be useful if comparison is needed between graph objects contained in the application and their respective image-based representations.
+Contains images of the original graphs whose route inspection problems are solved and outputed by this application. Should be useful if comparison is needed between graph objects contained in the application and their respective image-based representations.
 
 # How Does it Work?
 
