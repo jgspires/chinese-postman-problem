@@ -22,7 +22,7 @@ Contains images of the original graphs whose route inspection problems are solve
 
 # How Does it Work?
 
-The application can be executed as is from the 'app.py' file located in the 'src' folder. Any number of new graphs can be created, changed or removed by editing the 'app.py' for any required customization. If the 'app.py' file is not edited, three default graphs will be outputted as exemples (their images are found in the [Graph Exemples](https://github.com/jgspires/chinese-postman-problem#license/tree/main/Graph%20Exemples) folder.
+The application can be executed as is from the 'app.py' file located in the [src](https://github.com/jgspires/chinese-postman-problem/tree/main/src) folder. Any number of new graphs can be created, changed or removed by editing the 'app.py' for any required customization. If the 'app.py' file is not edited, three default graphs will be outputted as exemples (their images are found in the [Graph Exemples](https://github.com/jgspires/chinese-postman-problem#license/tree/main/Graph%20Exemples) folder).
 
 ## Authors
 
