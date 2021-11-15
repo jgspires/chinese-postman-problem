@@ -10,17 +10,17 @@ Simple Chinese Postman/Route Inspection Problem algorithm written in Python 3.x.
 * [Authors](https://github.com/jgspires/chinese-postman-problem#authors)
 * [License](https://github.com/jgspires/chinese-postman-problem#license)
 
-## Repo Structure
+# Repo Structure
 
-### src
+## src:
 
 Contains all of the source code pertaining to the application.
 
-### Graph Exemples
+## Graph Exemples:
 
 Contains images of the original graphs whose route inspection problems are solved and outputed by this application, should be useful if comparison is needed between graph objects contained in the application and their respective image-based representations.
 
-## How Does it Work?
+# How Does it Work?
 
 The application can be executed as is from the 'app.py' file located in the 'src' folder. Any number of new graphs can be created, changed or removed by editing the 'app.py' for any required customization.
 
